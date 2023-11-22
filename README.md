@@ -40,3 +40,9 @@ The velocity magnitude graphs for these two stars are interesting as they are id
 | Star One| Second Star|
 |---------|------------|
 |![](https://github.com/GrahamDrive/BinaryCelestialSim/blob/main/Example%20Simulations/M1=2%20M2=6%20v01%20=%20%5B1.2%20-0.6%201%5D/Star%201%20Velocity%20Magnitude%202%20M2=6.png?raw=true)|![](https://github.com/GrahamDrive/BinaryCelestialSim/blob/main/Example%20Simulations/M1=2%20M2=6%20v01%20=%20%5B1.2%20-0.6%201%5D/Star%202%20Velocity%20Magnitude%202%20M2=6.png?raw=true)|
+
+
+## Thanks!
+Thanks for checking out my little project! If you have any ideas or things that could improve on this script to make it better don't hesitate to fork the repo. I would love to see what people come up with!
+
+Also just wanted to thank my professor Dr. Jason Fiege who gave the outline for this project.
