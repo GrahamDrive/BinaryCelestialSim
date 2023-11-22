@@ -91,7 +91,7 @@ clf;
 
 % Star 1 Veolcity Graph
 plot(t(1:endtime), v1Mag(1:endtime,1), "b");
-title("Star 1 Velocity Magnitude vs Time @ M1 = " + M1 + " M2 = " + M2 + " ΔE: " + deltaE);
+title("Star 1 Velocity Magnitude @ M1 = " + M1 + " M2 = " + M2 + " ΔE: " + deltaE);
 xlabel("time")
 ylabel("Velocity")
 saveas(gcf, path+"\Star 1 Velocity Magnitude " + M1 + " M2=" + M2 + ".png");
